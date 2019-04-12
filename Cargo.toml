@@ -1,9 +1,12 @@
 [package]
 name = "lovecraft"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Geoffroy Couprie <geo.couprie@gmail.com>"]
 edition = "2018"
 description = "brings back the Lovecraft quotes on panic"
 license = "MIT"
+repository = "https://github.com/Geal/lovecraft"
+readme = "README.md"
+documentation = "https://docs.rs/lovecraft"
 
 [dependencies]
